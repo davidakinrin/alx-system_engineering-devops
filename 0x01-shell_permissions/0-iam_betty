@@ -1,0 +1,4 @@
+chown bettty
+cat> 0-iam_betty
+#!/bin/bash
+chown betty
